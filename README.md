@@ -23,6 +23,6 @@ Realizar análise exploratória de dados (EDA) e pré-processamento, preparando 
 - Padronização dos dados  
 
 # Hipóteses do trabalho
-- Relação positiva entre educação e expectativa de vida  
-- Relação negativa entre mortalidade e expectativa de vida  
-- Relação moderada entre PIB e expectativa de vida  
+- Países com melhores indicadores educacionais tendem a apresentar maior expectativa de vida?
+- Altas taxas de mortalidade (infantil/adulta) tendem a reduzir a expectativa de vida?
+- Países com maior PIB tendem a apresentar maior expectativa de vida?
